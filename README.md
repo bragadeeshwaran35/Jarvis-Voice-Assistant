@@ -107,7 +107,7 @@ Encourage collaboration—include a `CONTRIBUTING.md` and a license such as MIT.
 >  
 > **🛠️ Get started:**  
 > ```bash
-> git clone …  
+> git clone https://github.com/bragadeeshwaran35/Jarvis-Voice-Assistant
 > pip install -r requirements.txt  
 > python jarvis.py
 > ```  
